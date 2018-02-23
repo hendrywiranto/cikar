@@ -1,0 +1,95 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Uang rupiah kertas manakah yang jika dilihat dari sudut pandang tertentu, benang anyaman nya dapat berubah warna?",
+	"jawaban":[
+		"50000 dan 100000",
+		"20000 dan 5000",
+		"50000 dan 1000",
+		"20000 dan 10000"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Siapakah pahlawan yang terdapat pada uang rupiah kertas 50000?",
+	"jawaban":[
+		"Ir. H. Djuanda Kartawidjaja",
+		"Dr. G. S. S. J. Ratulangi",
+		"Ir. Soekarno",
+		"Muhammad Hatta"
+	]
+},
+{
+	"id":"3",
+	"soal":"Tari Gong dari Kalimantan Tengah terdapat pada uang rupiah kertas nominal",
+	"jawaban":[
+		"20000",
+		"10000",
+		"5000",
+		"50000"
+	]
+},
+{
+	"id":"4",
+	"soal":"Darimana asal Kepulauan Derawan pada uang rupiah kertas 20000?",
+	"jawaban":[
+		"Kalimantan Utara",
+		"Sumatera Barat",
+		"Jawa Timur",
+		"Kalimantan Timur"
+	]
+},
+{
+	"id":"5",
+	"soal":"Pengarang lagu “Indonesia Raya” terdapat pada watermark uang rupiah kertas nominal",
+	"jawaban":[
+		"100000",
+		"50000",
+		"20000",
+		"5000"
+	]
+},
+{
+	"id":"6",
+	"soal":"Tarian di bawah ini berasal dari Bali dan terdapat pada uang rupiah kertas nominal 50000. Apakah nama tarian berikut?",
+	"jawaban":[
+		"Tari Legong",
+		"Tari Topeng",
+		"Tari Kipas",
+		"Tari Perang"
+	]
+},
+{
+	"id":"7",
+	"soal":"Kepulauan apakah yang terdapat pada uang rupiah kertas 100000?",
+	"jawaban":[
+		"Kepulauan Raja Ampat",
+		"Kepulauan Jawa",
+		"Kepulauan Derawan",
+		"Kepulauan Wakatobi "
+	]
+},
+{
+	"id":"8",
+	"soal":"Siapakah yang berwenang dalam peredaran uang rupiah di Indonesia?",
+	"jawaban":[
+		"Bank Indonesia",
+		"Bank Rakyat Indonesia",
+		"Bank Negara Indonesia",
+		"Bank Central Asia"
+	]
+},
+{
+	"id":"9",
+	"soal":"Siapakah nama pahlawan yang ada pada uang rupiah kertas 2000?",
+	"jawaban":[
+		"Mohammad Hoesni Thamrin",
+		"Dr. K. H. Idham Chalid",
+		"Ir. Soekarno – Moh. Hatta",
+		"Tjut Meutia"
+	]
+}
+]
+}

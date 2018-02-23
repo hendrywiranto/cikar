@@ -1,0 +1,95 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Siapakah nama pahlawan yang ada pada uang rupiah kertas 2000?",
+	"jawaban":[
+		"Mohammad Hoesni Thamrin",
+		"Tjut Meutia",
+		"Dr. K. H. Idham Chalid",
+		"Ir. Soekarno – Moh. Hatta"
+	]
+
+},
+{
+	"id":"2",
+	"soal":"Apakah bentuk pecahan uang rupiah kertas 1000?",
+	"jawaban":[
+		"Koin dan Kertas",
+		"Koin",
+		"Kertas",
+		"Tidak ada jawaban yang benar"
+	]
+},
+{
+	"id":"3",
+	"soal":"Pada uang rupiah kertas 2000 akan terasa kasar apabila diraba pada bagian",
+	"jawaban":[
+		"Tulisan '2000'",
+		"Tulisan 'Dua Ribu Rupiah'",
+		"Gambar Tari Piring",
+		"Burung Garuda"
+	]
+},
+{
+	"id":"4",
+	"soal":"Darimana asal tarian piring pada uang rupiah kertas 2000?",
+	"jawaban":[
+		"Sumatera Barat",
+		"DKI Jakarta",
+		"Bangka Belitung",
+		"Kalimantan Timur"
+	]
+},
+{
+	"id":"5",
+	"soal":"Berapa jumlah uang rupiah koin yang beredar saat ini",
+	"jawaban":[
+		"4",
+		"2",
+		"3",
+		"5"
+	]
+},
+{
+	"id":"6",
+	"soal":"Siapakah yang berwenang dalam peredaran uang rupiah di Indonesia?",
+	"jawaban":[
+		"Bank Indonesia",
+		"Bank Negara Indonesia",
+		"Bank Central Asie",
+		"Bank Rakyat Indonesia"
+	]
+},
+{
+	"id":"7",
+	"soal":"Berikut merupakan cara mengenali ciri keaslian uang rupiah, kecuali",
+	"jawaban":[
+		"Dipegang",
+		"Diraba",
+		"Dilihat",
+		"Ditrawang"
+	]
+},
+{
+	"id":"8",
+	"soal":"Situs taman nasional yang terdapat pada uang kertas 10000 rupiah terletak di propinsi",
+	"jawaban":[
+		"Sulawesi Tenggara",
+		"Sulawesi Utara",
+		"Sumatera Barat",
+		"Sumatera Utara"
+	]
+},
+{
+	"id":"9",
+	"soal":"Siapakah nama pahlawan yang terdapat pada uang kertas 5000 rupiah?",
+	"jawaban":[
+		"Dr. K. H. Idham Chalid",
+		"Mohammad Hoesni Thamrin",
+		"R. A. Kartini",
+		"Pangeran Antasari"
+	]
+}
+]
+}

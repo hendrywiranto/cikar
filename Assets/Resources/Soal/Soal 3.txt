@@ -1,0 +1,95 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Siapakah nama pahlawan yang terdapat pada uang kertas 5000 rupiah?",
+	"jawaban":[
+		"Dr. K. H. Idham Chalid",
+		"Mohammad Hoesni Thamrin",
+		"R. A. Kartini",
+		"Pangeran Antasari"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Tari yang terdapat di uang kertas 10000 rupiah adalah tari",
+	"jawaban":[
+		"Tari pakarena",
+		"Tari piring",
+		"Tari jaipong",
+		"Tari saman"
+	]
+},
+{
+	"id":"3",
+	"soal":"Siapakah nama pahlawan yang terdapat pada uang koin 1000 rupiah?",
+	"jawaban":[
+		"Mr. I Gusti Ketut Pudja",
+		"Letjen TNI T. B Simatupang",
+		"Prof. Dr. Ir. Herman Johannes",
+		"Mahmud Badaruddin II"
+	]
+},
+{
+	"id":"4",
+	"soal":"Siapakah nama pahlawan yang terdapat pada uang koin 500 rupiah?",
+	"jawaban":[
+		"Letjen TNI T. B Simatupang",
+		"Mr. I Gusti Ketut Pudja",
+		"Prof. Dr. Ir. Herman Johannes",
+		"Mahmud Badaruddin II"
+	]
+},
+{
+	"id":"5",
+	"soal":"Gambar Gunung Bromo terdapat pada uang ",
+	"jawaban":[
+		"5000",
+		"20000",
+		"10000",
+		"2000"
+	]
+},
+{
+	"id":"6",
+	"soal":"Frans Kaisiepo merupakan pahlawan yang terdapat pada uang",
+	"jawaban":[
+		"10000",
+		"20000",
+		"5000",
+		"2000"
+	]
+},
+{
+	"id":"7",
+	"soal":"Situs taman nasional yang terdapat pada uang kertas 10000 rupiah terletak di propinsi",
+	"jawaban":[
+		"Sulawesi Tenggara",
+		"Sulawesi Utara",
+		"Sumatera Barat",
+		"Sumatera Utara"
+	]
+},
+{
+	"id":"8",
+	"soal":"Kepulauan apakah yang terdapat pada uang rupiah kertas 100000",
+	"jawaban":[
+		"Kepulauan Raja Ampat",
+		"Kepulauan Jawa",
+		"Kepulauan Derawan",
+		"Kepulauan Wakatobi "
+	]
+},
+{
+	"id":"9",
+	"soal":"Uang rupiah kertas manakah yang jika dilihat dari sudut pandang tertentu, benang anyaman nya dapat berubah warna?",
+	"jawaban":[
+		"50000 dan 100000",
+		"20000 dan 5000",
+		"50000 dan 1000",
+		"20000 dan 10000"
+	]
+}
+]
+}

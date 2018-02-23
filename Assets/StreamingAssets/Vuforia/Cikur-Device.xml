@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rp1000_TE_2016_belakang" size="1.000000 0.451064" />
+    <ImageTarget name="Rp2000_TE_2016_belakang" size="1.000000 0.453191" />
+    <ImageTarget name="Rp5000_TE_2016_belakang" size="1.000000 0.451064" />
+    <ImageTarget name="Rp10000_TE_2016_belakang" size="1.000000 0.436170" />
+    <ImageTarget name="Rp20000_TE_2016_belakang" size="1.000000 0.431915" />
+    <ImageTarget name="Rp50000_TE_2016_belakang" size="1.000000 0.442553" />
+    <ImageTarget name="Rp100000_TE_2016_belakang" size="1.000000 0.419149" />
+    <ImageTarget name="Rp2000_TE_2016_depan" size="1.000000 0.455319" />
+    <ImageTarget name="Rp100000_TE_2016_depan" size="1.000000 0.421277" />
+    <ImageTarget name="Rp50000_TE_2016_depan" size="1.000000 0.429787" />
+    <ImageTarget name="Rp20000_TE_2016_depan" size="1.000000 0.431915" />
+    <ImageTarget name="Rp10000_TE_2016_depan" size="1.000000 0.440426" />
+    <ImageTarget name="Rp5000_TE_2016_depan" size="1.000000 0.451064" />
+    <ImageTarget name="Rp1000_TE_2016_depan" size="1.000000 0.448936" />
+  </Tracking>
+</QCARConfig>
